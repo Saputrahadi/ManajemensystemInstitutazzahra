@@ -4,6 +4,9 @@ Dokumentasi teknis dan SOP, mencakup Fase 0 (Core System) dan modul Fase 1
 yang sudah mulai dibangun. Untuk gambaran fitur & cara pakai singkat, lihat
 [README.md](../README.md) di root project.
 
+- [master-blueprint.md](master-blueprint.md) — Master Blueprint YPHR Smart
+  System: rangkuman utuh semua fase/modul yang sudah dibangun, arsitektur,
+  konvensi, dan yang belum dikerjakan.
 - [architecture.md](architecture.md) — arsitektur RBAC, data-scoping per Unit,
   Audit Trail, dan struktur modul Core System (Fase 0).
 - [pmb.md](pmb.md) — domain PMB (Fase 1, Prioritas 1) — selesai end-to-end,
